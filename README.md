@@ -10,11 +10,12 @@ The dataset is retrieved from https://www.kaggle.com/code/andls555/heart-disease
 # Order of our project
 1. Data cleaning
 2. Exploratory Data Analysis
-3. SVM,
+3. SVM
 4. KNN
 5. Logistic Regression
 6. Random Forest
 7. Categorical Naive Bayes
+8. Conclusion
 
 # Data Cleaning
 The original data set had 300 variables so data cleaning was done to choose 5 variables : GenHealth, Stroke, DiffWalking, AgeCategory and PhysicalHealth
